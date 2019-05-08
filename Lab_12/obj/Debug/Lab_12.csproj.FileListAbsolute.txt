@@ -1,0 +1,7 @@
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_12\Lab_12\bin\Debug\Lab_12.exe.config
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_12\Lab_12\bin\Debug\Lab_12.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_12\Lab_12\bin\Debug\Lab_12.pdb
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_12\Lab_12\obj\Debug\Lab_12.csprojAssemblyReference.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_12\Lab_12\obj\Debug\Lab_12.csproj.CoreCompileInputs.cache
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_12\Lab_12\obj\Debug\Lab_12.exe
+C:\Users\Arushi\Desktop\Bootcamp_class\Lab_12\Lab_12\obj\Debug\Lab_12.pdb
